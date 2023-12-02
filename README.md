@@ -1,2 +1,2 @@
 # demo-project
-hosting website using amplify
+Sumathi created this project
